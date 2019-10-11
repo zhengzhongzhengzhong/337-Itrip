@@ -1,0 +1,5 @@
+cn\itrip\Search\Entity\SearchHotelVO.class
+cn\itrip\Search\Controller\SerchContoller.class
+cn\itrip\Search\Entity\Page.class
+cn\itrip\Search\Dao\BaseDao.class
+cn\itrip\Search\Entity\SearchHotCityVO.class

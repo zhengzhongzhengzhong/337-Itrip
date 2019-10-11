@@ -1,0 +1,17 @@
+-----模板内容-------
+
+<#list li as User>
+
+        <#if User.id==5>
+        ${User.id}
+        ${User.name}
+        <#else>
+            模板自定义数据
+        </#if>
+
+</#list>
+
+
+
+
+-----模板内容-------
