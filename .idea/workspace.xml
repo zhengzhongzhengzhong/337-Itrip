@@ -98,7 +98,7 @@
       <file leaf-file-name="SerchContoller.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Controller/SerchContoller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
+            <state relative-caret-position="11">
               <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
             </state>
           </provider>
@@ -217,8 +217,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="347" />
-    <option name="y" value="75" />
+    <option name="x" value="383" />
+    <option name="y" value="28" />
     <option name="width" value="1386" />
     <option name="height" value="564" />
   </component>
@@ -467,19 +467,19 @@
       <workItem from="1569631181320" duration="5242000" />
       <workItem from="1570512859127" duration="9950000" />
       <workItem from="1570581115338" duration="6450000" />
-      <workItem from="1570781097327" duration="1500000" />
+      <workItem from="1570781097327" duration="1867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65474000" />
+    <option name="totallyTimeSpent" value="65841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="383" y="28" width="1386" height="564" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.18986385" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.1892911" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -496,10 +496,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24019608" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.71895427" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73255813" visible="true" weight="0.19515885" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7962963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19457014" />
       <window_info anchor="right" id="Bean Validation" order="8" weight="0.14145234" />
-      <window_info id="Web" order="2" sideWeight="0.26744187" side_tool="true" visible="true" weight="0.19515885" />
+      <window_info id="Web" order="2" side_tool="true" visible="true" weight="0.19457014" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -555,37 +555,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Dao/BaseDao.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Dao/BaseDao.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Controller/SerchContoller.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Dao/BaseDao.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Entity/Page.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Controller/SerchContoller.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="13" />
@@ -941,7 +941,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itripSolr/src/main/java/cn/itrip/Search/Controller/SerchContoller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
+        <state relative-caret-position="11">
           <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
         </state>
       </provider>
